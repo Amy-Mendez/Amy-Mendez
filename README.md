@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amy-Mendez
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning SCoDA at UTH-CUJAE
-- 💞️ I’m looking to collaborate on artificial intelligence, soft computing, data-mining projects.
+- 🌱 I’m currently learning SCoDA on my own
 - 📫 Reach me through my public e-mail amandamendez31217@gmail.com
 
 <!---
